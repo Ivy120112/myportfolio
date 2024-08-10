@@ -1,0 +1,38 @@
+body {
+    font-family: cursive;
+    color: black;
+    background-image: linear-gradient(to right,#FFC7EA,#CAEDFF,#D8B4F8);
+}
+
+.link-nav{
+    text-decoration: none;
+    color: violet;
+    box-shadow: 5px 5px 5px 0 gray ;
+    padding: 5px;
+
+}
+
+.link-header{
+    text-decoration: none;
+    color: purple;
+}
+
+nav{
+     display: flex;
+     justify-content: space-around;
+    
+}
+
+.socail{
+    margin: 40px;
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
