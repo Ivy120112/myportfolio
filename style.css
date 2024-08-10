@@ -28,11 +28,37 @@ nav{
 }
 
 
-footer{
+.footer{
     display: flex;
     justify-content: space-around;
+    width: 300px;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+article:hover{
+    border: 10px dotted #FF90BC;
+    box-shadow: 0px 10px 5px 0px black ;
+    transition: 2s ease-out;
+  
+    
+
+}
+
+article{
+    margin: 10px;
+    border: 5px dotted #7BD3EA;
 }
 
 
+
+
+article p{
+    text-align: center;
+
+}
 
 
